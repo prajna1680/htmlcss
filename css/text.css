@@ -1,0 +1,104 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+
+body {
+  font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+}
+
+pre,
+code {
+  font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
+}
+
+hr {
+  border: 0 solid #ccc;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+h1 {
+  margin-top: 20px;
+  width: 1300px;
+  height: 20px;
+  background-color: darkslateblue;
+}
+
+h2 {
+  font-family: georgia;
+  font-size: 25px;
+  padding-top: 20px;
+   text-shadow: 3px 3px lightgray;
+}
+
+h3 {
+  height: 30px;
+  font-size: 21px;
+  
+}
+
+h4 {
+  height: 30px;
+  font-size: 20px;
+  background-color: lightgray;
+  margin-top: 50px;
+  width: 1300px;
+  
+}
+
+h5 {
+  margin-top: 3px;
+  margin-bottom: 20px;
+  width: 1300px;
+  height: 20px;
+  background-color: darkslateblue;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-left: 0px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+  margin-bottom: 25px;
+  text-align: center;
+}

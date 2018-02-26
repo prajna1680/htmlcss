@@ -1,0 +1,81 @@
+body {
+  background: #123;
+  color: #333;
+  font-size: 11px;
+  height: auto;
+  padding-bottom: 20px;
+}
+header {
+  margin-top: -20px;
+  width: 1300px;
+  height: 160px;
+  background-color: white;
+ }
+header nav {
+  margin-top: -25px;
+  float: right;
+  margin-right: 0px;
+}
+nav a {
+  margin-right: 32px;
+  font-size: 19px;
+  padding: 5px;
+  color: black;
+}
+input {
+  margin-top: 10px;
+}
+a:hover {
+  text-decoration: underline;
+}
+p {
+  border: 1px solid #666;
+  overflow: hidden;
+  padding: 10px 10px 5px 5px;
+  text-align: center;
+  font-family: georgia;
+  font-size: 14px;
+}
+h2 img {
+  margin-top: -25px;
+  margin-left: 45px;
+  float: left;
+  width: 200px;
+  height: 100px;
+}
+.container_12 {
+  background-color: #fff;
+  background-repeat: repeat-y;
+  margin-bottom: 12px;
+  box-shadow: 5px 10px 10px black;
+
+}
+.grid_12 img {
+  width : 1200px; 
+  height: 500px;
+  margin-left: -20px;
+  margin-bottom: 25px;
+}
+p img {
+  width: 350px;
+  height: 200px;
+  margin-left: -5px;
+}
+footer {
+  font-size: 13px;
+  margin-top: -25px;
+  width: 1300px;
+  height: 160px;
+  background-color: white; 
+}
+.grid_8 {
+  width: 280px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+a {
+  text-decoration: none;
+}
+.grid_8 i {
+ font-size: 13px;
+}
